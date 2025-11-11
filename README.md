@@ -7,3 +7,5 @@
 📚 Passionate and interested in technology and developing.
 
 🧩 Love exploring new thing and continuous learning.
+
+- LinkedIn : Nazirahanis
