@@ -56,7 +56,7 @@
     - Languanges
       - Malay : Native
       - English : Fluent
-      - Arabic : Elementary
+      - Arabic : Beginner
       - Korean : Beginner
   
 
