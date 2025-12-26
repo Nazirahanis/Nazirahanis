@@ -48,7 +48,7 @@
     - Kuiz Teknologi Hijau : Participant (National)
     - Kuiz Pengetahuan Badan Beruniform 2023 : Participant (National)
    
-  - Skills
+  # Skills
     - Programming: Java, C++
     - Tools & IDEs: Visual Studio Code, DEEDS
     - Software & Tools : Canva, Microsoft Word, Microsoft Excel, Capcut
@@ -58,8 +58,9 @@
       - English : Fluent
       - Arabic : Beginner
       - Korean : Beginner
+    
      
-  - Course
+  # Course
     - [Discrete Structure](https://github.com/Nazirahanis/SECI1013_Discrete-Structure)
     - [Programming Technique I](https://github.com/Nazirahanis/SECJ1013_Programming-Technique-1)
     - [Technology & Information Systems](https://github.com/Nazirahanis/SECP1513-Technology_Information_System)
