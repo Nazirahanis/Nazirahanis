@@ -48,24 +48,30 @@
     - Kuiz Teknologi Hijau : Participant (National)
     - Kuiz Pengetahuan Badan Beruniform 2023 : Participant (National)
    
-  # Skills
-    - Programming: Java, C++
-    - Tools & IDEs: Visual Studio Code, DEEDS
-    - Software & Tools : Canva, Microsoft Word, Microsoft Excel, Capcut
+# Skills
+  - Programming: Java, C++
+  - Tools & IDEs: Visual Studio Code, DEEDS
+  - Software & Tools : Canva, Microsoft Word, Microsoft Excel, Capcut
    
-    - Languanges
-      - Malay : Native
-      - English : Fluent
-      - Arabic : Beginner
-      - Korean : Beginner
+# Languanges
+  - Malay : Native
+  - English : Fluent
+  - Arabic : Beginner
+  - Korean : Beginner
     
      
-  # Course
-    - [Discrete Structure](https://github.com/Nazirahanis/SECI1013_Discrete-Structure)
-    - [Programming Technique I](https://github.com/Nazirahanis/SECJ1013_Programming-Technique-1)
-    - [Technology & Information Systems](https://github.com/Nazirahanis/SECP1513-Technology_Information_System)
-    - [Digital Logic](https://github.com/Nazirahanis/SECR1013-Digital-Logic)
-    - [Intergrity & Anti Corruption](https://github.com/Nazirahanis/ULRS1032-Integrity-and-Anti-Corruption)
+# Course
+  - [Discrete Structure](https://github.com/Nazirahanis/SECI1013_Discrete-Structure)
+  - [Programming Technique I](https://github.com/Nazirahanis/SECJ1013_Programming-Technique-1)
+  - [Technology & Information Systems](https://github.com/Nazirahanis/SECP1513-Technology_Information_System)
+  - [Digital Logic](https://github.com/Nazirahanis/SECR1013-Digital-Logic)
+  - [Intergrity & Anti Corruption](https://github.com/Nazirahanis/ULRS1032-Integrity-and-Anti-Corruption)
+
+# Contact
+  - Github : [Nazirahanis](https://github.com/Nazirahanis)
+  - LinkedIn : [Nazirahanis](https://www.linkedin.com/in/nazirahanis-a0769a389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  - Instagram : [nzzzzzi._rh](https://www.instagram.com/nzzzzzi_.rh?igsh=MTEzN3lhYTRmcHhoaA==)
+  - Email : nazirahanis006@gmail.com
     
   
 
