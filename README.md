@@ -63,7 +63,7 @@
 # Course
   - [Discrete Structure](https://github.com/Nazirahanis/SECI1013_Discrete-Structure)
   - [Programming Technique I](https://github.com/Nazirahanis/SECJ1013_Programming-Technique-1)
-  - [Technology & Information Systems](https://github.com/Nazirahanis/SECP1513-Technology_Information_System)
+  - [Technology & Information Systems](https://github.com/Nazirahanis/SECP1513-Technology-and-Information-System)
   - [Digital Logic](https://github.com/Nazirahanis/SECR1013-Digital-Logic)
   - [Intergrity & Anti Corruption](https://github.com/Nazirahanis/ULRS1032-Integrity-and-Anti-Corruption)
 
