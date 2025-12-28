@@ -28,8 +28,8 @@
     - F4T1 Komik Insaniah : AJK Program (2025)
    
   - SMKA Al-Irshad
-    - Pengawas Pusat Sumber (2024)
-    - Persatuan Bahasa Arab : Secretary (2024)
+    - Pengawas Pusat Sumber (2023)
+    - Persatuan Bahasa Arab : Secretary (2023)
 
 # Certificates & Awards
   - Universiti Teknologi Malaysia
@@ -44,7 +44,7 @@
 
   - SMKA Al-Irshad
     - International Essay Contest Go I peace 2023 : Participant (International)
-    - Cabaran Math Whiz 2023 : Participant (International)
+    - Cabaran Math Whizz 2023 : Participant (International)
     - Kuiz Teknologi Hijau : Participant (National)
     - Kuiz Pengetahuan Badan Beruniform 2023 : Participant (National)
    
