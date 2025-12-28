@@ -6,7 +6,7 @@
 
 # Education
   - University Teknologi Malaysia (2025-present)
-  - Course : Bachelor of Computer Science (Data Engineering) with Honour
+    - Course : Bachelor of Computer Science (Data Engineering) with Honour
 
   - Kolej Matrikulasi Kedah (2024-2025)
     - PNGK : 4.00
