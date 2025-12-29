@@ -61,11 +61,11 @@
     
      
 # Course
-  - [Discrete Structure](https://github.com/Nazirahanis/SECI1013_Discrete-Structure)
-  - [Programming Technique I](https://github.com/Nazirahanis/SECJ1013_Programming-Technique-1)
-  - [Technology & Information Systems](https://github.com/Nazirahanis/SECP1513-Technology-and-Information-System)
-  - [Digital Logic](https://github.com/Nazirahanis/SECR1013-Digital-Logic)
-  - [Intergrity & Anti Corruption](https://github.com/Nazirahanis/ULRS1032-Integrity-and-Anti-Corruption)
+  - [Discrete Structure](https://github.com/Nazirahanis/Degree_Journey/tree/7ee5ba7e71a88795a8fd136d8ea216af12dcd2a6/SECI1013%20Discrete%20Structure)
+  - [Programming Technique I](https://github.com/Nazirahanis/Degree_Journey/tree/7ee5ba7e71a88795a8fd136d8ea216af12dcd2a6/SECJ1013%20Programming%20Technique%20I)
+  - [Technology & Information Systems](https://github.com/Nazirahanis/Degree_Journey/tree/7ee5ba7e71a88795a8fd136d8ea216af12dcd2a6/SECP1513%20-%20Technology%20%26%20Information%20Systems)
+  - [Digital Logic](https://github.com/Nazirahanis/Degree_Journey/tree/7ee5ba7e71a88795a8fd136d8ea216af12dcd2a6/SECR1013%20Digital%20Logic)
+  - [Intergrity & Anti Corruption](https://github.com/Nazirahanis/Degree_Journey/tree/7ee5ba7e71a88795a8fd136d8ea216af12dcd2a6/URLS1032%20Integrity%20%26%20Anti-Corruption)
 
 # Contact
   - Github : [Nazirahanis](https://github.com/Nazirahanis)
