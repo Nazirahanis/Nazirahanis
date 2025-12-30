@@ -70,6 +70,7 @@
 # Contact
   - Github : [Nazirahanis](https://github.com/Nazirahanis)
   - LinkedIn : [Nazirahanis](https://www.linkedin.com/in/nazirahanis-a0769a389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  - Website : [Nazirahanis](https://nazirahanis.github.io/Personal-Website/)
   - Instagram : [nzzzzzi._rh](https://www.instagram.com/nzzzzzi_.rh?igsh=MTEzN3lhYTRmcHhoaA==)
   - Email : nazirahanis006@gmail.com
     
